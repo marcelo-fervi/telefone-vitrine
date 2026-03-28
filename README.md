@@ -4,17 +4,33 @@ Este repositório representa meu projeto privado (*ao qual não irei expôr o c�
 Navegue abaixo pelas páginas e seções do telefone que eu construí:
 
 ## Aplicativos
-#### Telas de aplicativos criados por mim.
-<a href="./apps/README.md">Ver</a>
+### Telas de aplicativos criados por mim.
+#### Exemplos:
+<img src="./apps/assets/S22CalculadoraB.png" width="200"><img src="./apps/assets/S22Musicly1.png" width="200">
+<img src="./apps/assets/S22Twister1B.png" width="200"><img src="./apps/assets/S22WhatUp1B.png" width="200">
+
+<a href="./apps/README.md">Ver mais</a>
 
 ## Android
-#### Telas e elementos criados por mim inspirados no visual Android.
-<a href="./android/README.md">Ver</a>
+### Telas e elementos criados por mim inspirados no visual Android.
+#### Exemplos:
+<img src="./android/assets/AndroidHome.png" width="200"><img src="./android/assets/AndroidConfigB.png" width="200">
+<img src="./android/assets/AndroidAppStoreB.png" width="200"><img src="./android/assets/AndroidModalB.png" width="200">
+
+<a href="./android/README.md">Ver mais</a>
 
 ## iOS
-#### Telas e elementos criados por mim inspirados no visual iOS.
-<a href="./ios/README.md">Ver</a>
+### Telas e elementos criados por mim inspirados no visual iOS.
+#### Exemplos:
+<img src="./ios/assets/IOSHome.png" width="200"><img src="./ios/assets/IOSConfigB.png" width="200">
+<img src="./ios/assets/IOSAppStoreB.png" width="200"><img src="./ios/assets/IOSModalB.png" width="200">
+
+<a href="./ios/README.md">Ver mais</a>
 
 ## Windows Phone
-#### Telas e elementos criados por mim inspirados no visual Windows Phone.
-<a href="./windowsphone/README.md">Ver</a>
+### Telas e elementos criados por mim inspirados no visual Windows Phone.
+#### Exemplos:
+<img src="./windowsphone/assets/WPHome.png" width="200"><img src="./windowsphone/assets/WPConfigB.png" width="200">
+<img src="./windowsphone/assets/WPAppStoreB.png" width="200"><img src="./windowsphone/assets/WPModalB.png" width="200">
+
+<a href="./windowsphone/README.md">Ver mais</a>
