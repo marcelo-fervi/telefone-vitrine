@@ -1,5 +1,6 @@
 # Telefone
-Este repositório representa meu projeto privado (*ao qual não irei expôr o código-fonte para evitar que outras pessoas o clonem e usem-o sem minha autorização*) que tem como objetivo criar um Telefone que pode ser customizado dinamicamente utilizando as tecnologias: HTML, JavaScript, NodeJS, SASS, dentre outras.
+Este repositório representa meu projeto pessoal de desenvolvimento de um telefone com interface NUI em ambiente multijogador.  
+**OBS.:** O código-fonte não ficará exposto para evitar que outras pessoas o clonem e usem-o sem minha autorização.
 
 ## Detalhes técnicos:
 • Frontend em HTML, SASS e JavaScript com foco em experiência do usuário  
